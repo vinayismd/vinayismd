@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experienced Android developer with over 6 years of expertise in building robust mobile applications. Proficient in Java and Kotlin, adept at leveraging various Android SDKs, frameworks, and libraries. Passionate about staying updated with the latest trends and technologies in the Android ecosystem. Skilled in debugging, optimizing performance, and providing mentorship to junior developers
+Experienced Android developer with over 8+ years of expertise in building robust mobile applications. Proficient in Java and Kotlin, adept at leveraging various Android SDKs, frameworks, and libraries. Passionate about staying updated with the latest trends and technologies in the Android ecosystem. Skilled in debugging, optimizing performance, and providing mentorship to junior developers
 
 
 ## 🌐 Socials:
